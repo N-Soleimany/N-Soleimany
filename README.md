@@ -16,4 +16,4 @@ For now, working on Improving My embedded Systems programming skills sush as AVR
 
 [![Instagram](https://img.shields.io/badge/Instagram-f00?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_soleimany/)
 
-[![Twitter](https://img.shields.io/badge/twitter-26a7de?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/its_soleimany?s=09)
+[![Twitter](https://img.shields.io/badge/twitter-26a7de?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ni_soleimany?s=09)
