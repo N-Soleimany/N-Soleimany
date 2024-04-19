@@ -2,11 +2,11 @@
 ## 👾 About Me
 Hi Guys.
 
-kinda into Embedded Systems :)
+kinda into Digital/Embedded Systems :)
 
-I'm currently a BEng computer Student at Qom University
+I'm a BEng computer Student at Qom University
 
-For now, working on Improving My embedded Systems programming skills sush as AVR & ARM.
+Currently, working on my System C programming skills.
 
 
 
