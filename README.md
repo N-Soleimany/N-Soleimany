@@ -6,13 +6,17 @@ kinda into Digital/Embedded Systems :)
 
 I'm a BEng computer Student at Qom University
 
-Currently, working on my System C programming skills.
+Currently, working on my Embedded Software programming skills.
+
+Have Worked with AVR | ARDUINO UNO
+
+
 
 
 
 ## Reach Me!
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloufar-soleimany-33082928b)
+[![linkedin](https://www.linkedin.com/in/niloofar-soleimany-33082928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 [![Instagram](https://img.shields.io/badge/Instagram-f00?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_soleimany/)
 
