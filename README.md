@@ -16,7 +16,7 @@ Have Worked with AVR | ARDUINO UNO
 
 ## Reach Me!
 
-[![linkedin](https://img.shields.io/badge/Linkedin-f00?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.linkedin.com/in/niloofar-soleimany-33082928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![linkedin](https://img.shields.io/badge/Linkedin-f00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niloofar-soleimany-33082928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 [![Instagram](https://img.shields.io/badge/Instagram-f00?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_soleimany/)
 
