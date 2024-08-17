@@ -9,7 +9,7 @@
 
 - ..I'm a **Game Addict 🎮**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://www.microchip.com/design-centers/8-bit/avr-mcus" target="_blank" rel="noreferrer"> 
     <img src="assets/avr-logo.png" alt="avr" width="40" height="40"/> 
